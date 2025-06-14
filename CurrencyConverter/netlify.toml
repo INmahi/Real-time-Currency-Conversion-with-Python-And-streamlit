@@ -1,0 +1,11 @@
+[build]
+  command = "pip install -r pyproject.toml && streamlit run app.py --server.port=8501 --server.address=0.0.0.0"
+  publish = "."
+
+[build.environment]
+  PYTHON_VERSION = "3.11"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

@@ -1,0 +1,62 @@
+{
+  "rates": {
+    "USD_EUR": {
+      "rate": 0.866,
+      "timestamp": "2025-06-15T01:25:51.966742",
+      "from_currency": "USD",
+      "to_currency": "EUR"
+    },
+    "USD_ARS": {
+      "rate": 1187.67,
+      "timestamp": "2025-06-14T18:54:26.861494",
+      "from_currency": "USD",
+      "to_currency": "ARS"
+    },
+    "USD_BDT": {
+      "rate": 122.19,
+      "timestamp": "2025-06-14T19:01:37.707171",
+      "from_currency": "USD",
+      "to_currency": "BDT"
+    },
+    "EUR_USD": {
+      "rate": 1.15,
+      "timestamp": "2025-06-14T18:59:55.293446",
+      "from_currency": "EUR",
+      "to_currency": "USD"
+    },
+    "USD_AOA": {
+      "rate": 918.63,
+      "timestamp": "2025-06-14T19:00:06.912983",
+      "from_currency": "USD",
+      "to_currency": "AOA"
+    },
+    "AOA_USD": {
+      "rate": 0.00109,
+      "timestamp": "2025-06-14T19:00:09.427662",
+      "from_currency": "AOA",
+      "to_currency": "USD"
+    },
+    "BDT_EUR": {
+      "rate": 0.00709,
+      "timestamp": "2025-06-14T19:00:23.188569",
+      "from_currency": "BDT",
+      "to_currency": "EUR"
+    },
+    "BDT_USD": {
+      "rate": 0.00818,
+      "timestamp": "2025-06-14T19:00:36.402911",
+      "from_currency": "BDT",
+      "to_currency": "USD"
+    },
+    "USD_BBD": {
+      "rate": 2,
+      "timestamp": "2025-06-14T19:00:55.675093",
+      "from_currency": "USD",
+      "to_currency": "BBD"
+    }
+  },
+  "metadata": {
+    "last_update": "2025-06-15T01:25:51.966742",
+    "total_cached": 9
+  }
+}
